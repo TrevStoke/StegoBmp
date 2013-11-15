@@ -9,6 +9,7 @@ Build
 =====
 
 `cc -o textin textin.c`
+
 `cc -o textout textout.c`
 
 Usage
